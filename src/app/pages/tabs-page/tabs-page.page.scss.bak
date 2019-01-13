@@ -1,0 +1,13 @@
+.tabbar {
+  justify-content: center;
+}
+
+.tab-button {
+  max-width: 200px;
+
+}
+
+ion-tab-button{
+	  --color-selected: #10dc60;
+	  max-width: 200px;
+	}
