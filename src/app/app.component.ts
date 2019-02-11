@@ -9,7 +9,7 @@ import { Events, MenuController, Platform } from '@ionic/angular';
   templateUrl: 'app.component.html',
 })
 export class AppComponent {
-	
+
   constructor(
     private platform: Platform,
     private splashScreen: SplashScreen,
@@ -24,5 +24,5 @@ export class AppComponent {
       this.splashScreen.hide();
     });
   }
-  
+
 }

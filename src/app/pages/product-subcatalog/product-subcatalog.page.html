@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button text="" icon="arrow-round-back"></ion-back-button>
+    </ion-buttons>
+    <ion-title>product-subcatalog</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <ion-grid fixed>
+      <ion-row align-items: stretch>
+        <ion-col size="12" size-md="6" *ngFor="let subcatalogProduct of subcatalogProducts">
+          <ion-card>
+            <ion-item detail="false" lines="none" [href]="'tabs-page/tabs/(product:product-subcatalog/'+ product.name+'/'+ subcatalogProduct.name">   <!-- 1.href不对   2.为啥有[] -->
+              <ion-avatar slot="start">
+                <img [src]="subcatalogProduct.profilePic" alt="subcatalogProduct profile pic">
+              </ion-avatar>
+              <ion-label>{{subcatalogProduct.name}}</ion-label>
+            </ion-item>
+          </ion-card>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </ion-list>
+</ion-content>

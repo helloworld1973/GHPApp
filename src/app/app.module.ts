@@ -5,12 +5,11 @@ import { RouteReuseStrategy } from '@angular/router';
 import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
-
+import { IonicStorageModule } from '@ionic/storage';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
 import { HttpClientModule } from '@angular/common/http';
-import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [AppComponent],
@@ -18,6 +17,7 @@ import { environment } from '../environments/environment';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    IonicStorageModule.forRoot(),
     HttpClientModule,
     IonicModule.forRoot()
   ],

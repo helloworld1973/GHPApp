@@ -1,0 +1,161 @@
+{
+ "products":
+ [
+   {
+    "name": "Beauty",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "1"
+   },
+   {
+    "name": "Bee Products",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "2"
+   },
+   {
+    "name": "Colostrum & Milk",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "3"
+   },
+   {
+    "name": "Digestion & Detox",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "4"
+   },
+   {
+    "name": "Eye Health",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "5"
+   },
+   {
+    "name": "Heart, Circulation & Energy",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "6"
+   },
+   {
+    "name": "Immune Support",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "7"
+   },
+   {
+    "name": "Joint & Bone Health",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "8"
+   },
+   {
+    "name": "Marine",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "9"
+   },
+      {
+    "name": "Memory",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "10"
+   },
+   {
+    "name": "Men's Health",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "11"
+   },
+   {
+    "name": "Nutritional Oils",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "12"
+   },
+   {
+    "name": "Specialty",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "13"
+   },
+   {
+    "name": "Stress, Sleep & Mood",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "14"
+   },
+   {
+    "name": "Superfoods",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "15"
+   },
+   {
+    "name": "Vitamins & Minerals",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "16"
+   },
+   {
+    "name": "Weight Management",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "17"
+   },
+   {
+    "name": "Women's Health",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "18"
+   },
+   {
+    "name": "Kids",
+    "profilePic": "/assets/img/speakers/bear.jpg",
+    "id": "19"
+   }
+ ],
+ 
+ 
+ 
+  "subcatalog":
+[
+ {
+   "Beauty":
+   [{
+     "name": "Imaglow",
+     "profilePic": "/assets/img/speakers/bear.jpg",
+     "id": "1",
+     "summary": "Advanced collagen formula.Antioxidant skin protection.Hydrates & rejuvenates",
+     "pack sizes": "60 Tablets",
+     "directions": "Take 2 tablets with food. After 3 months dose can be reduced to 1 tablet daily as a maintenance dose",
+     "formulated without": "Gluten, egg, dairy, yeast, wheat, artificial flavours, artificial sweeteners or artificial colours",
+     "cautions": "Do not take if allergic to seafood.Vitamins and minerals are supplementary to and not a replacement for a balanced diet.Always read the label and use as directed.If symptoms persist see your healthcare professional",
+     "ingredients": "Marine Collagen&&&250mg.Vitis vinifera Seed  (Grapeseed extract)&&&50mg.Vitamin C (Ascorbic acid)&&&50mg.Colloidal Silica&&&30mg.Evening Primrose Oil&&&5mg.Zinc Gluconate (Equiv. Zinc 5mg)&&&38mg",
+     "product overview": "Good Health Imaglow Advanced collagen formula is for smooth supple skin, great hair, and nail health. Imaglow supports the skin's normal repair for fine lines, wrinkles, broken capillaries, pigmentation, spots and general skin imbalances. The combination of ingredients helps maintain skin elasticity, firmness and resilience by enhancing collagen and elastin production.",
+     "recommended for": "Antioxidant skin protection.Hydrates and rejuvenates ageing skin, pigmentation.Lack of collagen & elastin",
+     "pack sizes": "60 Tablets"
+   },
+   {
+     "name": "Placenta 25,000",
+     "profilePic": "/assets/img/speakers/bear.jpg",
+     "id": "2"
+   },
+   {
+     "name": "Placenta 25,000",
+     "profilePic": "/assets/img/speakers/bear.jpg",
+     "id": "3"
+   },
+   {
+     "name": "Skin, Hair & Nails +",
+     "profilePic": "/assets/img/speakers/bear.jpg",
+     "id": "4"
+   }]
+ },
+ {
+   "Bee Product":
+   [{
+     "name": "Bee Product1",
+     "profilePic": "/assets/img/speakers/bear.jpg",
+     "id": "1"
+    },
+    {
+       "name": "Bee Product2",
+       "profilePic": "/assets/img/speakers/bear.jpg",
+       "id": "2"
+    },
+    {
+       "name": "Bee Product3",
+       "profilePic": "/assets/img/speakers/bear.jpg",
+       "id": "3"
+    },
+    {
+       "name": "Bee Product4",
+       "profilePic": "/assets/img/speakers/bear.jpg",
+       "id": "4"
+    }]
+ }
+]
+}
